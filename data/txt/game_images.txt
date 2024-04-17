@@ -1,0 +1,101 @@
+﻿Title,Picture,Rating
+The Legend of Zelda: Breath of the Wild,Zelda,4.84
+Red Dead Redemption 2,Red_Dead,4.71
+Halo Infinite,halo_infinite,4.53
+The Witcher 3: Wild Hunt,the_witcher_wild,4.83
+Animal Crossing: New Horizons,animal_crossing,4.35
+Call of Duty: Warzone,call_of_duty,4.15
+Cyberpunk 2077,cyberpunk,4.81
+Fortnite,fortnite,2.65
+Super Mario Odyssey,super_mario,4.85
+The Elder Scrolls V: Skyrim,the_elder_scrolls,4.91
+Grand Theft Auto V,gta,4.63
+Overwatch,overwatch,4.54
+Assassin's Creed Valhalla,assasin_creed,4.75
+Minecraft,minecraft,4.87
+Resident Evil Village,resident_evil,4.86
+Sekiro: Shadows Die Twice,sekiro,4.84
+FIFA 22,fifa,4.92
+Rocket League,rocket_league,4.77
+Super Smash Bros. Ultimate,smash_bro,4.81
+Among Us,among_us,4.94
+The Last of Us Part II,the_last_of_us_part,4.86
+Counter-Strike: Global Offensive,counter-strike,4.87
+Ghost of Tsushima,ghost_of_tsushima,4.89
+The Sims 4,the_sims_4,4.78
+Doom Eternal,doom_eternal,4.83
+Stardew Valley,stardew_valley,4.84
+Mortal Kombat 11,mortal_kombat,4.87
+The Outer Worlds,the_outer_world,4.91
+Monster Hunter: World,monster_hunter,4.41
+Celeste,celeste,4.49
+The Sims 3,the_sims_3,4.64
+Final Fantasy VII Remake,final_fantasy_7,4.69
+Rainbow Six Siege,rainbows,4.77
+The Legend of Zelda: Skyward Sword HD,zelda_skyward,4.76
+Dead by Daylight,dead_by_daylight,4.78
+Mario Kart 8 Deluxe,mario_kart_8,4.85
+Control,control,4.82
+Super Meat Boy,super_meat_boy,4.86
+Borderlands 3,borderland_3,4.71
+Terraria,terraria,4.76
+Subnautica,subnautica,4.88
+Death Stranding,Death_Stranding,4.84
+Hades,hades,4.79
+Dark Souls III,dark_soul_3,4.89
+Fall Guys: Ultimate Knockout,fall_guys,4.79
+The Sims 2,the_sims_2,4.81
+The Legend of Zelda: Link's Awakening,zelda_life_awakening,4.21
+DOOM (2016),doom_xbox,4.25
+Horizon Zero Dawn,horizon,4.3
+Star Wars Jedi: Fallen Order,star_war_jedi,4.34
+Far Cry 6,far_cry_6,4.87
+The Witcher 2: Assassins of Kings,the_witcher_2,4.83
+Assassin's Creed Odyssey,assasin_creed_odyssey,4.87
+God of War,god_of_war,4.94
+Fallout 4,fallouot,4.92
+StarCraft II,starcraft,4.84
+Dead Space,deadspace,4.81
+The Elder Scrolls IV: Oblivion,the_elder_scrolls,4.91
+Half-Life: Alyx,half_life_alyx,4.89
+Bioshock Infinite,bioshock_infinite,4.87
+Final Fantasy XIV: A Realm Reborn,final_fantasy,4.43
+Resident Evil 7: Biohazard,resident_evil_biohazard,4.45
+Sid Meier's Civilization VI,civilization,4.55
+The Legend of Zelda: Twilight Princess HD,Zelda,4.84
+Kingdom Hearts III,kingdom_heart_3,4.68
+Crash Bandicoot 4: It's About Time,crash_bandicoot,4.65
+Dark Souls Remastered,dark_soul,4.74
+Borderlands 2,borderlands_2,4.93
+Divinity: Original Sin 2,divinity_original,4.67
+Marvel's Spider-Man,spider_man,4.56
+Genshin Impact,genshin_impact,3.35
+Mars Explorers,mars,3.89
+Steampunk Adventures,steampunk,4.89
+Zombie Outbreak,Zombie_Outbreak,4.39
+Mythical Realms,Mythical_Realms,4.59
+Jurassic World,Jurassic_World,4.29
+Dragon's Lair,dragon_lair,4.19
+Cyberpunk Chronicles,Cyberpunk_Chronicles,4.33
+City Builder,city_building,4.35
+Zombie Apocalypse,Zombie_Apocalypse,4.79
+Space Invaders,Space_Invaders,4.11
+Lost Kingdoms,Lost_Kingdoms,4.27
+Space Odyssey,Space_Odyssey,4.35
+Superheroes Unleashed,Superheroes_Unleashed,4.37
+Alien Invasion,Alien_Invasion,4.23
+Medieval Quest,Medieval_Quest,4.39
+Time Travelers,Time_Travelers,4.3
+Assassin's Legacy,Assassins_Legacy,4.42
+Ancient Mysteries,Ancient_Mysteries,4.27
+Future Shooter,Future_Shooter,4.59
+Mystery Mansion,Mystery_Mansion,4.69
+Desert Racing,Desert_Racing,4.28
+Ninja Showdown,Ninja_Showdown,4.33
+Magic Mayhem,Magic_Mayhem,4.46
+Galactic Wars,Galactic_Wars,4.56
+Magic Mayhem G-6,Magic_Mayhem_6,4.41
+Survival Horror,Survival_Horror,4.43
+Fantasy Quest,Fantasy_Quest,4.56
+Underwater World,Underwater_World,4.53
+Pirate Adventures,Pirate_Adventures,4.52

@@ -1,0 +1,31 @@
+ID,Title,Platform,Genre,Purchase Price,Purchase Date
+1,Mars Explorers,PlayStation,Platformer,49.99,06-11-2023
+2,Steampunk Adventures,Xbox,Action-RPG,39.99,06-11-2023
+3,Zombie Outbreak,Xbox,Action-RPG,34.99,06-11-2023
+4,Mythical Realms,PlayStation,Action-RPG,49.99,06-11-2023
+5,Jurassic World,Xbox,Platformer,44.99,06-11-2023
+6,Dragon's Lair,Xbox,First-Person Shooter,39.99,06-11-2023
+7,Cyberpunk Chronicles,PC,Action-Adventure,49.99,20-02-2023
+8,City Builder,PC,First-Person Shooter,24.99,06-11-2023
+9,Zombie Apocalypse,PC,RPG,29.99,15-02-2023
+10,Space Invaders,PlayStation,First-Person Shooter,19.99,06-11-2023
+11,Lost Kingdoms,PlayStation,RPG,39.99,18-11-2022
+12,Space Odyssey,PC,Action-Adventure,29.99,28-12-2022
+13,Superheroes Unleashed,PC,Action-RPG,24.99,06-11-2023
+14,Alien Invasion,PC,Action-RPG,29.99,06-11-2023
+15,Medieval Quest,Xbox,First-Person Shooter,34.99,06-11-2023
+16,Time Travelers,Xbox,Platformer,39.99,06-11-2023
+17,Assassin's Legacy,PlayStation,Action-Adventure,29.99,15-01-2023
+18,Ancient Mysteries,PlayStation,Platformer,29.99,06-11-2023
+19,Future Shooter,Xbox,RPG,34.99,01-12-2022
+20,Mystery Mansion,PlayStation,Action-Adventure,24.99,12-10-2022
+21,Desert Racing,Xbox,Platformer,19.99,06-11-2023
+22,Ninja Showdown,Xbox,Action-Adventure,34.99,10-03-2023
+23,Magic Mayhem,Xbox,RPG,44.99,29-10-2022
+24,Galactic Wars,PC,RPG,29.99,25-03-2023
+25,Magic Mayhem G-6,Xbox,First-Person Shooter,44.99,06-11-2023
+26,Survival Horror,PC,First-Person Shooter,44.99,06-11-2023
+27,Fantasy Quest,PlayStation,Action-Adventure,44.99,05-01-2023
+28,Underwater World,PlayStation,Action-RPG,44.99,06-11-2023
+29,City Builder,PC,RPG,24.99,30-01-2023
+30,Pirate Adventures,PC,Platformer,24.99,06-11-2023
